@@ -24,4 +24,4 @@ Do not hesitate to contact the author (yasin.kumru@bilkent.edu.tr) if you have a
 
 # Access to Dataset Files
 
-The dataset is available on “https://drive.google.com/file/d/1aRyn8uKgGRkIxohs6M7sddUSCdfe3IFZ/view?usp=sharing”
+The dataset is available on “https://drive.google.com/file/d/1aRyn8uKgGRkIxohs6M7sddUSCdfe3IFZ/view?usp=sharing”.
