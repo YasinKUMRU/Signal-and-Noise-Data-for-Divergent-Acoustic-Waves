@@ -10,7 +10,7 @@ The data sampling rate is 80 MHz in the reception. The receive phase length is 9
 We applied 22 dB fixed and 2.3 dB/cm time-varying gain for phantom measurements.
 A detailed description of the measurement setup is available in arXiv:2104.10526v1. The transducer measurement data is also available in arXiv:2105.14816v1.
 
-Instructions:
+# Instructions:
 
 We applied appropriate time delays to each transducer array element to obtain divergent wavefronts in DWI.
 We used 8-bit complementary Golay sequences (CGSs) with different bit lengths (0.5, 1, 1.5, and 2-cycle/bit) to code the transmitted signal and binary phase-shift keying for modulation in DWI.
