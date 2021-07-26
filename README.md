@@ -20,7 +20,7 @@ All array elements were used in each transmit and receive event.
 In STAI measurements, we transmitted a 2-cycle pulse. We transmitted from an array element at a time, successively. We measured STAI data from all transmit/receive element pairs.
 We measured the noise in each channel without any transmission.
 The array was kept acoustically in contact with the phantom surface to ensure the noise contribution of the radiation resistance.
-We recorded 13 separate measurements, where the transducer displaced by about 1 mm in each measurement. 
+We recorded 13 separate measurements, where the transducer is displaced by about 1 mm in each measurement. 
 We also performed measurements in freshwater. We immersed a highly reflective material, a steel plate, in the water at a 5 cm depth (approximately). 
 We fired the 64th element of the transducer and received the reflecting echoes from all elements. 
 Do not hesitate to contact the author (yasin.kumru@bilkent.edu.tr) if you have any questions about the dataset.
