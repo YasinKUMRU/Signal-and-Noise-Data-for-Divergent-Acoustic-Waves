@@ -24,3 +24,7 @@ We recorded 13 separate measurements, where the transducer displaced by about 1 
 We also performed measurements in freshwater. We immersed a highly reflective material, a steel plate, in the water at a 5 cm depth (approximately). 
 We fired the 64th element of the transducer and received the reflecting echoes from all elements. 
 Do not hesitate to contact the author (yasin.kumru@bilkent.edu.tr) if you have any questions about the dataset.
+
+# Access to Dataset Files
+
+The dataset is available on “https://drive.google.com/file/d/1aRyn8uKgGRkIxohs6M7sddUSCdfe3IFZ/view?usp=sharing”
