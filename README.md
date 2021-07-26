@@ -1,4 +1,4 @@
-# Signal-and-Noise-Data-for-Divergent-Acoustic-Waves
+Signal and Noise Data for Divergent Acoustic Waves
 
 The dataset contains the medical ultrasound imaging measurement data. The phantom dataset was measured by using three different imaging methods.
 These methods are diverging wave imaging (DWI), synthetic transmit aperture imaging (STAI), and conventional single-focused phased array imaging (CSFI).
