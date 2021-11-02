@@ -1,7 +1,7 @@
 # Signal and Noise Data for Diverging Acoustic Waves
 
 The dataset contains the medical ultrasound imaging measurement data. The phantom dataset was measured by using two different imaging methods.
-These methods are diverging wave imaging (DWI), and conventional single-focused phased array imaging (CSFI).
+These methods are diverging wave imaging (DWI) and conventional single-focused phased array imaging (CSFI).
 
 We used a Digital Phased Array System (DiPhAS, Fraunhofer IBMT, Frankfurt, Germany) for data acquisition. We also used 128 elements phased array transducer (Fraunhofer IBMT, Frankfurt, Germany) operating at a 7.5 MHz center frequency. We performed phantom (Model 550, Breast & Small Parts Phantom, ATS Laboratories, Bridgeport, USA) measurements. The phantom consists of monofilament nylon line targets with a diameter of 50 micrometers and tissue-mimicking cylindrical targets of varying sizes and contrasts. The data sampling rate is 80 MHz in the reception. The receive phase length is 95 microseconds. Therefore, the length of the data at each array element is 7600 samples. We applied 22 dB fixed and 2.3 dB/cm time-varying gain for phantom measurements.
 
